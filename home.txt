@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+<title>RINGLE TREE CUTTER</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+<div id="topbar">
+</div>
+<div id="container">
+<div id="header">
+<img src="images/logo.png" />
+<ul>
+<li><a href="ringletreecutter.weebly.com">Home</a></li>
+<li><a href="ringletreecutter.weebly.com">About</a></li>
+<li><a href="ringletreecutter.weebly.com">Gallery</a></li>
+<li><a href="ringletreecutter.weebly.com">Services</a></li>
+<li><a href="ringletreecutter.weebly.com">Video Gallery</a></li>
+<li><a href="ringletreecutter.weebly.com">Contact us</a></li>
+</ul>
+</div>
+<div id="banner">
+<img src="images/banner.jpg" width="100%" />
+</div>
+<div id="content1">
+<h4 class="heading">welcome !</h4>
+<p class="para1"> Welcome to RINGLE TREE CUTTER, This is our official website. Please subscribe us.</p>
+<a herf="youtube.com/@ringletreecutter" class="more">Read More..</a>
+</div>
+<div id="content2">
+<h4 class="heading">Our Services !</h4>
+<p class="para1"> We providing Tree cutting services all over kanniya kumari</p>
+<a herf="youtube.com/@ringletreecutter" class="more">Read More..</a>
+</div>
+<div id="content3">
+<h4 class="heading">About us !</h4>
+<p class="para1"> Welcome to <b>RINGLE TREE CUTTER</b>, This is our official website. Please subscribe us.</p>
+<a herf="youtube.com/@ringletreecutter" class="more">Read More..</a>
+</div>
+
+<div id="bottom1">
+<h2>Want to write something</h2>
+<p> Welcome to RINGLE TREE CUTTER, This is our official website. Please subscribe us.</p>
+<h2>Want to write something</h2>
+<p> Welcome to RINGLE TREE CUTTER, This is our official website. Please subscribe us.</p>
+<a herf="youtube.com/@abishchallenge">Read more...</a>
+</div>
+<div id="bottom2">
+<h2>STIHL ms 461 is for sale only at $25000</h2>
+<img src="images/stihl.jpg" width="100%" height="300px" />
+</div>
+
+<ul>
+<li><a href="ringletreecutter.weebly.com">Home</a></li>
+<li><a href="ringletreecutter.weebly.com">About</a></li>
+<li><a href="ringletreecutter.weebly.com">Gallery</a></li>
+<li><a href="ringletreecutter.weebly.com">Services</a></li>
+<li><a href="ringletreecutter.weebly.com">Video Gallery</a></li>
+<li><a href="ringletreecutter.weebly.com">Contact us</a></li>
+</ul>
+<p> &copy;2024 | Designed by ABISH</p>
+</div>
+
+</body>
+</html>
